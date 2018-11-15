@@ -1,11 +1,11 @@
 body{
-    text-align:center;
+  
     background: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg");
 }
 img{
-    width:400px;
+    width:350px;
     border:dashed;
-    height:500px;
+    height:350px;
 }
 p{
     color:white;
@@ -28,4 +28,14 @@ ul{
 }
 h4{
     color:white;
+}
+ul{
+    color:white;
+    font-family: 'Spicy Rice', cursive;
+}
+h5{
+    color:white;
+}
+h6{
+    color: white;
 }
