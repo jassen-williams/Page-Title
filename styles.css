@@ -1,11 +1,12 @@
 body{
   
     background: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg");
+    text-align:center;
 }
 img{
-    width:350px;
+    width:330px;
     border:dashed;
-    height:350px;
+    height:299px;
 }
 p{
     color:white;
